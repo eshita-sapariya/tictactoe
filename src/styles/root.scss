@@ -7,7 +7,7 @@ button {
   background: none;
   border: none;
   outline: none;
-  button:hover {
+  &:hover {
     cursor: pointer;
   }
 }
